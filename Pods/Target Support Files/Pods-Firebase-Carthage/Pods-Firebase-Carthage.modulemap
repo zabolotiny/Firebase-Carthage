@@ -1,0 +1,6 @@
+framework module Pods_Firebase_Carthage {
+  umbrella header "Pods-Firebase-Carthage-umbrella.h"
+
+  export *
+  module * { export * }
+}
